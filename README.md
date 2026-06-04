@@ -1,2 +1,17 @@
-# powerbi-sales-performance-dashboard
-Interactive Sales Performance Dashboard built using Power BI, Power Query, and DAX. Analyzes sales, profit, targets, returns, delivery delays, and regional performance.
+# 📊 Sales Performance Dashboard
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+- CSV Data Sources
+
+## KPIs
+- Total Sales
+- Total Profit
+- Achievement %
+- Return Rate
+- Delay Rate %
+- Sales Growth %
+- Profit Growth %
+- Total Orders
