@@ -1,17 +1,23 @@
-# 📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- CSV Data Sources
+An interactive Power BI dashboard designed to analyze sales performance, profitability, target achievement, returns, and delivery delays across regions and product categories.
 
-## KPIs
-- Total Sales
-- Total Profit
-- Achievement %
-- Return Rate
-- Delay Rate %
-- Sales Growth %
-- Profit Growth %
-- Total Orders
+## Dataset Files
+
+- order_2015.csv
+- order_2016.csv
+- order_2017.csv
+- order_2018.csv
+- people.csv
+- returns.csv
+- targets.csv
+
+- ## Data Model
+
+The dashboard uses a star schema approach:
+
+- Fact_orders
+- Date Table
+- People Table
+- Returns Table
+- Target Table
